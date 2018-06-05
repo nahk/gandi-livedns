@@ -1,4 +1,5 @@
 # Binaries for programs and plugins
+/gandi-livedns
 *.exe
 *.exe~
 *.dll
@@ -10,3 +11,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# .env files
+/.env
+
+# Config files
+/config.json
+
+# Lock files
+/ip.lock

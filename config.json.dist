@@ -1,0 +1,9 @@
+{
+    "domains": [
+        {
+            "domain": "subdomain.example.com",
+            "zone": "gandi-zone-uuid",
+            "dns_name": "subdomain"
+        }
+    ]
+}
